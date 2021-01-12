@@ -30,6 +30,10 @@
           <option name="url" value="http://gitee.com" />
           <option name="userName" value="giteeaddress" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/makewheels/MybatisGenerator" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\workSpace\intellijidea" />
