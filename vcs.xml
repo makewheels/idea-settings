@@ -38,6 +38,14 @@
           <option name="url" value="https://git.iflytek.com/EPD_EBG_PDC_UC/message-svc" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.iflytek.com/EPD_EBG_PDC_UC/openapi-message-svc" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.iflytek.com/EPD_TPD_AIMP/message-center" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\workSpace\intellijidea" />
