@@ -50,6 +50,10 @@
           <option name="url" value="http://git.iflytek.com" />
           <option name="userName" value="binqiao" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/makewheels/test-swagger-springboot" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\workSpace\idea" />
