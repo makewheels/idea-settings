@@ -568,6 +568,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.hprof">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JProfiler" />
+              <option name="myPluginName" value="JProfiler" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.htm">
           <value>
             <plugin>
@@ -752,6 +760,14 @@
               <option name="myPluginId" value="com.intellij.platform.images" />
               <option name="myPluginName" value="com.intellij.platform.images" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.jps">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JProfiler" />
+              <option name="myPluginName" value="JProfiler" />
             </plugin>
           </value>
         </entry>
@@ -1131,6 +1147,14 @@
               <option name="myPluginId" value="com.intellij.platform.images" />
               <option name="myPluginName" value="com.intellij.platform.images" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.phd">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JProfiler" />
+              <option name="myPluginName" value="JProfiler" />
             </plugin>
           </value>
         </entry>
