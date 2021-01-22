@@ -241,6 +241,7 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -904,6 +905,7 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -921,6 +923,7 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -929,6 +932,7 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -937,6 +941,7 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -945,6 +950,7 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -953,6 +959,7 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -961,6 +968,7 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.kotlin" />
               <option name="myPluginName" value="Kotlin" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -2518,6 +2526,16 @@
                   <entry key="XSLT">
                     <value>
                       <FeaturePluginData displayName="XSLT" pluginName="XPathView + XSLT" pluginId="XPathView" />
+                    </value>
+                  </entry>
+                  <entry key="aws.ecs.cloud-debug">
+                    <value>
+                      <FeaturePluginData displayName="AWS ECS Service Cloud Debug (Beta)" pluginName="AWS Toolkit" pluginId="aws.toolkit" />
+                    </value>
+                  </entry>
+                  <entry key="aws.lambda">
+                    <value>
+                      <FeaturePluginData displayName="AWS Lambda" pluginName="AWS Toolkit" pluginId="aws.toolkit" />
                     </value>
                   </entry>
                   <entry key="docker-deploy">
