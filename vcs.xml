@@ -94,6 +94,10 @@
           <option name="url" value="https://github.com/makewheels/hide-secret-key-in-git-spring-boot" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/makewheels/HttpUtils" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\workSpace\idea" />
