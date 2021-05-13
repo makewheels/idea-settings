@@ -1,0 +1,18 @@
+<application>
+  <component name="libraryTable">
+    <library name="layui" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__unpkg.com_layui@2.6.6_dist_css_layui.css" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__unpkg.com_layui@2.6.6_dist_layui.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__unpkg.com_layui@2.6.6_dist_css_layui.css" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__unpkg.com_layui@2.6.6_dist_layui.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
